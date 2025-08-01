@@ -5,22 +5,25 @@ Power BI dashboard analyzing Blinkit sales and product data.
 This project presents a visual analysis of Blinkit's sales data using Power BI. It highlights key business metrics such as product performance, sales trends, category-wise sales, and location-based analytics. The dashboard is designed to assist decision-makers in optimizing inventory, promotions, and delivery strategies.
 
 🔍 Key Insights:
-Category-wise total sales and order volume
 
-Top-performing products and revenue contribution
+- Category-wise total sales and order volume
 
-Monthly sales trends and seasonal insights
+- Top-performing products and revenue contribution
 
-City or region-based performance metrics
+- Monthly sales trends and seasonal insights
 
-Interactive filtering and dynamic visuals
+- City or region-based performance metrics
+
+- Interactive filtering and dynamic visuals
 
 📁 Files Included:
-blinkit dashboard.pbix – Power BI dashboard file
 
-blinkit-preview.png – Dashboard preview (if available)
+* blinkit dashboard.pbix – Power BI dashboard file
+
+* blinkit-preview.png – Dashboard preview (if available)
 
 ✅ Tools Used:
+
 Power BI
 
 Data Analysis and Visualization
