@@ -24,11 +24,11 @@ This project presents a visual analysis of Blinkit's sales data using Power BI. 
 
 ✅ Tools Used:
 
-Power BI
+* Power BI
 
-Data Analysis and Visualization
+* Data Analysis and Visualization
 
-Blinkit E-Commerce Dataset
+* Blinkit E-Commerce Dataset
 
 ✨ Purpose:
 To present analytical insights into Blinkit’s operations for business intelligence and strategy planning using interactive dashboards.
